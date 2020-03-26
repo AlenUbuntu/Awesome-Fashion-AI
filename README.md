@@ -15,16 +15,11 @@ Areas
 * [Fashion Embeddings](#fashion-embeddings)
 * [Personalisation/Recommendation/Outfit Composition/Compatibility](#personalisationrecommendationoutfit-compositioncompatibility)
 * [Visual Search/Visual Recommendation/Visual Retrieval](#visual-searchvisual-recommendationvisual-retrieval)
-* [Natural Language Understanding in Fashion](#natural-language-understanding-in-fashion)
 * [Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation](#fashion-image-object-detectionclassificationparsingsegmentationattribute-manipulation)
 * [Retail Insights/Trends/Forecasting/Inventory Management](#retail-insightstrendsforecastinginventory-management)
 * [Image Generation/Image Manipulation in Fashion/Style Transfer](#image-generationimage-manipulation-in-fashionstyle-transfer)
-* [Styling/Occasion](#stylingoccasion)
-* [Social Media](#social-media)
 * [Sizing/Virtual Trial Room](#sizingvirtual-trial-room)
-* [Video](#video)
 * [Multimodal](#multimodal)
-* [Clothing Model](#clothing-model)
 
 #### Fashion Embeddings
 * Context-Aware Visual Compatibility Prediction, CVPR, 2019, </br>
