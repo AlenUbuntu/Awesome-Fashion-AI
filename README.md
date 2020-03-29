@@ -20,9 +20,10 @@ Areas
 * [Image Generation/Image Manipulation in Fashion/Style Transfer](#image-generationimage-manipulation-in-fashionstyle-transfer)
 * [Sizing/Virtual Trial Room](#sizingvirtual-trial-room)
 * [Multimodal](#multimodal)
-
+---
 #### Fashion Embeddings
-<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Context-Aware Visual Compatibility Prediction** </br>
+---
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20">  **Context-Aware Visual Compatibility Prediction** </br>
 CVPR, 2019, [[pdf](https://arxiv.org/abs/1902.03646)] [[code](https://github.com/gcucurull/visual-compatibility)] </br>
 
 **Learning Type-Aware Embeddings for Fashion Compatibility** </br>
@@ -31,7 +32,9 @@ ECCV, 2018, [[pdf](https://arxiv.org/pdf/1803.09196v1.pdf)] [[code](https://gith
 **Fashion Style in 128 Floats: Joint Ranking and Classification using Weak Data for Feature Extraction** </br>
 CVPR, 2016, [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Simo-Serra_Fashion_Style_in_CVPR_2016_paper.pdf)] [[code](https://esslab.jp/~ess/en/research/stylenet/)] </br>
 
+---
 #### Personalisation/Recommendation/Outfit Composition/Compatibility
+---
 **Fashion Is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources** </br>
 WACV, 2019, [[pdf](https://arxiv.org/pdf/1807.03235.pdf)] 
 
