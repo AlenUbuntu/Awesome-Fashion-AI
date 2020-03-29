@@ -22,9 +22,12 @@ Areas
 * [Multimodal](#multimodal)
 
 #### Fashion Embeddings
-* Context-Aware Visual Compatibility Prediction, CVPR, 2019, </br>
+* **Context-Aware Visual Compatibility Prediction, CVPR, 2019** </br>
 [pdf](https://arxiv.org/abs/1902.03646) [code](https://github.com/gcucurull/visual-compatibility)
-* Learning Type-Aware Embeddings for Fashion Compatibility, ECCV, 2018 </br>
+* **Learning Type-Aware Embeddings for Fashion Compatibility, ECCV, 2018** </br>
 [pdf](https://arxiv.org/pdf/1803.09196v1.pdf) [code](https://github.com/mvasil/fashion-compatibility) </br>
+* **Fashion Style in 128 Floats: Joint Ranking and Classification using Weak Data for Feature Extraction, CVPR, 2016** </br>
+[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Simo-Serra_Fashion_Style_in_CVPR_2016_paper.pdf) [code](https://esslab.jp/~ess/en/research/stylenet/)
+
 
 
