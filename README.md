@@ -62,7 +62,7 @@ ECCV, 2018, [[pdf](https://arxiv.org/pdf/1803.09196v1.pdf)] [[code](https://gith
 **Product Characterisation towards Personalisation: Learning Attributes from Unstructured Data to Recommend Fashion Products.** </br>
 KDD, 2018, [[pdf](https://arxiv.org/pdf/1803.07679v1.pdf)]
 
-<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Recommending Outfits from Personal Closet**</br>
+**Recommending Outfits from Personal Closet**</br>
 WACV, 2018, [[pdf](https://arxiv.org/abs/1804.09979)]
 
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Learning Fashion Compatibility with Bidirectional LSTMs** </br>
