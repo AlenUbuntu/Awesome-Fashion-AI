@@ -16,9 +16,9 @@ Areas
 * [Outfit Composition/Compatibility Recommendation/Prediction](#Outfit-CompositionCompatibility-RecommendationPrediction)
 * [Visual Search/Visual Recommendation/Visual Retrieval](#visual-searchvisual-recommendationvisual-retrieval)
 * [Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation](#fashion-image-object-detectionclassificationparsingsegmentationattribute-manipulation)
+* [Sizing/Virtual Trial Room](#sizingvirtual-trial-room)
 * [Retail Insights/Trends/Forecasting/Inventory Management](#retail-insightstrendsforecastinginventory-management)
 * [Image Generation/Image Manipulation in Fashion/Style Transfer](#image-generationimage-manipulation-in-fashionstyle-transfer)
-* [Sizing/Virtual Trial Room](#sizingvirtual-trial-room)
 * [Multimodal](#multimodal)
 ---
 #### Fashion Embeddings
@@ -76,4 +76,97 @@ ACM MM, 2017, [[pdf](https://dl.acm.org/doi/10.1145/3123266.3123314)]
 
 **Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences**</br>
 ICCV, 2015, [[pdf](https://arxiv.org/pdf/1509.07473v1.pdf)]
+
+---
+#### Visual Search/Visual Recommendation/Visual Retrieval
+---
+**Principle-to-program: Neural Fashion Recommendation with Multi-modal Input.** </br>
+ACM MM, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3343031.3350544)]
+
+**Fashion Retrieval via Graph Reasoning Networks on a Similarity Pyramid** </br>
+ICCV, 2019, [[pdf](https://arxiv.org/abs/1908.11754)]
+
+**Learning Binary Code for Personalized Fashion Recommendation.** </br>
+CVPR, 2019, [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_Learning_Binary_Code_for_Personalized_Fashion_Recommendation_CVPR_2019_paper.pdf)]
+
+**Fashion Is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources** </br>
+WACV, 2019, [[pdf](https://arxiv.org/abs/1807.03235)]
+
+**A deep learning system for predicting size and fit in fashion e-commerce** </br>
+RecSys, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3298689.3347006)]
+
+**What Dress Fits Me Best?: Fashion Recommendation on the Clothing Style for Personal Body Shape.** </br>
+ACM MM, 2018, [[pdf](https://dl.acm.org/doi/10.1145/3240508.3240546)]
+
+**Interpretable Multimodal Retrieval for Fashion Products** </br>
+ACM MM, 2018, [[pdf](https://dl.acm.org/doi/10.1145/3240508.3240646)]
+
+**Fashion Sensitive Clothing Recommendation Using Hierarchical Collocation Model** </br>
+ACM MM, 2018, [[pdf](https://dl.acm.org/doi/10.1145/3240508.3240596)]
+
+**Efficient Multi-attribute Similarity Learning Towards Attribute-Based Fashion Search.** </br>
+WACV, 2018, [[pdf](https://www.researchgate.net/publication/324728205_Efficient_Multi-Attribute_Similarity_Learning_Towards_Attribute-based_Fashion_Search)]
+
+**Learning Attribute Representations With Localization for Flexible Fashion Search.** </br>
+CVPR, 2018, [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ak_Learning_Attribute_Representations_CVPR_2018_paper.pdf)]
+
+**Memory-Augmented Attribute Manipulation Networks for Interactive Fashion Search** </br>
+CVPR, 2017, [[pdf](http://zpascal.net/cvpr2017/Zhao_Memory-Augmented_Attribute_Manipulation_CVPR_2017_paper.pdf)]
+
+**Learning the Latent "Look": Unsupervised Discovery of a Style-Coherent Embedding from Fashion Images.** </br>
+ICCV, 2017, [[pdf](https://arxiv.org/pdf/1707.03376.pdf)]
+
+**Automatic Spatially-Aware Fashion Concept Discovery** </br>
+ICCV, 2017, [[pdf](https://arxiv.org/pdf/1708.01311v1.pdf)]
+
+**Leveraging Weakly Annotated Data for Fashion Image Retrieval and Label Prediction** </br>
+ICCV Workshop, 2017, [[pdf](https://arxiv.org/pdf/1709.09426v1.pdf)]
+
+**Learning Unified Embedding for Apparel Recognition** </br>
+ICCV Workshop, 2017, [[pdf](https://arxiv.org/pdf/1707.05929.pdf)]
+
+**Visual Search at eBay.** </br>
+KDD, 2017, [[pdf](https://arxiv.org/pdf/1706.03154v2.pdf)]
+
+---
+#### Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation
+---
+**Attribute Manipulation Generative Adversarial Networks for Fashion Images.** </br>
+ICCV, 2019, [[pdf](https://ieeexplore.ieee.org/document/9008395)]
+
+**Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification** </br>
+CVPR, 2018, [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.html)]
+
+**Unconstrained Fashion Landmark Detection via Hierarchical Recurrent Transformer Networks** </br>
+ACM MM, 2017, [[pdf](https://dl.acm.org/doi/10.1145/3123266.3123276)]
+
+---
+#### Sizing/Virtual Trial Room
+---
+**FashionOn: Semantic-guided Image-based Virtual Try-on with Detailed Human and Clothing Information** </br>
+ACM MM, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3343031.3351075)]
+
+**M2E-Try On Net: Fashion from Model to Everyone** </br>
+ACM MM, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3343031.3351083)]
+
+**Shop your Right Size: A System for Recommending Sizes for Fashion products.** </br>
+WWW, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3308560.3316599)]
+
+
+
+---
+#### Retail Insights/Trends/Forecasting/Inventory Management
+---
+**Automatic Fashion Knowledge Extraction from Social Media** </br>
+ACM MM, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3343031.3350607)]
+
+**Who, Where, and What to Wear?: Extracting Fashion Knowledge from Social Media** </br>
+ACM MM, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3343031.3350889)]
+
+**GeoStyle: Discovering Fashion Trends and Events.** </br>
+ICCV, 2019, [[pdf](https://arxiv.org/abs/1908.11412)]
+
+**Fashion Forward: Forecasting Visual Style in Fashion.** </br>
+ICCV, 2017, [[pdf](https://arxiv.org/abs/1705.06394)]
+
 
