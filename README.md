@@ -35,7 +35,7 @@ CVPR, 2019, [[pdf](https://arxiv.org/abs/1902.03646)] [[code](https://github.com
 **Enhancing Fashion Recommendation with Visual Compatibility Relationship** </br>
 WWW, 2019, [[pdf]](https://dl.acm.org/doi/10.1145/3308558.3313739)
 
-<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Fashion Is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources** </br>
+<img src="https://github.com/AlenUbuntu/Awesome-Fashion-AI/blob/master/1200px-Gold_Star.svg.png" width="20"> **Fashion Is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources** </br>
 WACV, 2019, [[pdf](https://arxiv.org/pdf/1807.03235.pdf)] 
 
 **TransNFCM: Translation-Based Neural Fashion Compatibility Modeling** </br>
@@ -47,7 +47,7 @@ SIGIR, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3331184.3331365)]
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Prototype-guided Attribute-wise Interpretable Scheme for Clothing Matching** </br>
 SIGIR, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3331184.3331245)]
 
-<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **GP-BPR: Personalized Compatibility Modeling for Clothing Matching** </br>
+<img src="https://github.com/AlenUbuntu/Awesome-Fashion-AI/blob/master/1200px-Gold_Star.svg.png" width="20"> **GP-BPR: Personalized Compatibility Modeling for Clothing Matching** </br>
 ACM MM, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3343031.3350956**)]
 
 **Toward Explainable Fashion Recommendation** </br>
@@ -71,7 +71,7 @@ ACM MM, 2017, [[pdf](https://arxiv.org/pdf/1707.05691v1.pdf)] [[code1](https://g
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **NeuroStylist: Neural Compatibility Modeling for Clothing Matching** </br>
 ACM MM, 2017, [[pdf](https://dl.acm.org/doi/10.1145/3123266.3123314)]
 
-<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences**</br>
+<img src="https://github.com/AlenUbuntu/Awesome-Fashion-AI/blob/master/1200px-Gold_Star.svg.png" width="20"> **Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences**</br>
 ICCV, 2015, [[pdf](https://arxiv.org/pdf/1509.07473v1.pdf)] [[code](https://vision.cornell.edu/se3/projects/clothing-style/)]
 
 ---
@@ -86,19 +86,19 @@ ICCV, 2019, [[pdf](https://arxiv.org/abs/1908.11754)]
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Learning Binary Code for Personalized Fashion Recommendation.** </br>
 CVPR, 2019, [[pdf](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lu_Learning_Binary_Code_for_Personalized_Fashion_Recommendation_CVPR_2019_paper.pdf)] [[code](https://github.com/lzcn/Fashion-Hash-Net)]
 
-<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Fashion Is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources** </br>
+<img src="https://github.com/AlenUbuntu/Awesome-Fashion-AI/blob/master/1200px-Gold_Star.svg.png" width="20"> **Fashion Is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources** </br>
 WACV, 2019, [[pdf](https://arxiv.org/abs/1807.03235)]
 
 **A deep learning system for predicting size and fit in fashion e-commerce** </br>
 RecSys, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3298689.3347006)]
 
-<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Interpretable Multimodal Retrieval for Fashion Products** </br>
+<img src="Interpretable Multimodal Retrieval for Fashion Products" width="20"> **Interpretable Multimodal Retrieval for Fashion Products** </br>
 ACM MM, 2018, [[pdf](https://dl.acm.org/doi/10.1145/3240508.3240646)]
 
 **Fashion Sensitive Clothing Recommendation Using Hierarchical Collocation Model** </br>
 ACM MM, 2018, [[pdf](https://dl.acm.org/doi/10.1145/3240508.3240596)]
 
-<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Efficient Multi-attribute Similarity Learning Towards Attribute-Based Fashion Search.** </br>
+<img src="https://github.com/AlenUbuntu/Awesome-Fashion-AI/blob/master/1200px-Gold_Star.svg.png" width="20"> **Efficient Multi-attribute Similarity Learning Towards Attribute-Based Fashion Search.** </br>
 WACV, 2018, [[pdf](https://www.researchgate.net/publication/324728205_Efficient_Multi-Attribute_Similarity_Learning_Towards_Attribute-based_Fashion_Search)]
 
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Learning Attribute Representations With Localization for Flexible Fashion Search.** </br>
@@ -113,13 +113,13 @@ ICCV, 2017, [[pdf](https://arxiv.org/pdf/1707.03376.pdf)] [[code](http://vision.
 <img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Automatic Spatially-Aware Fashion Concept Discovery** </br>
 ICCV, 2017, [[pdf](https://arxiv.org/pdf/1708.01311v1.pdf)]
 
-<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Leveraging Weakly Annotated Data for Fashion Image Retrieval and Label Prediction** </br>
+<img src="https://github.com/AlenUbuntu/Awesome-Fashion-AI/blob/master/1200px-Gold_Star.svg.png" width="20"> **Leveraging Weakly Annotated Data for Fashion Image Retrieval and Label Prediction** </br>
 ICCV Workshop, 2017, [[pdf](https://arxiv.org/pdf/1709.09426v1.pdf)]
 
 **Learning Unified Embedding for Apparel Recognition** </br>
 ICCV Workshop, 2017, [[pdf](https://arxiv.org/pdf/1707.05929.pdf)]
 
-<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Visual Search at eBay.** </br>
+<img src="https://github.com/AlenUbuntu/Awesome-Fashion-AI/blob/master/1200px-Gold_Star.svg.png" width="20"> **Visual Search at eBay.** </br>
 KDD, 2017, [[pdf](https://arxiv.org/pdf/1706.03154v2.pdf)]
 
 ---
