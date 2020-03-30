@@ -92,7 +92,7 @@ WACV, 2019, [[pdf](https://arxiv.org/abs/1807.03235)]
 **A deep learning system for predicting size and fit in fashion e-commerce** </br>
 RecSys, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3298689.3347006)]
 
-<img src="Interpretable Multimodal Retrieval for Fashion Products" width="20"> **Interpretable Multimodal Retrieval for Fashion Products** </br>
+<img src="https://github.com/AlenUbuntu/Awesome-Fashion-AI/blob/master/1200px-Gold_Star.svg.png" width="20"> **Interpretable Multimodal Retrieval for Fashion Products** </br>
 ACM MM, 2018, [[pdf](https://dl.acm.org/doi/10.1145/3240508.3240646)]
 
 **Fashion Sensitive Clothing Recommendation Using Hierarchical Collocation Model** </br>
