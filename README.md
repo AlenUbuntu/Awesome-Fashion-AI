@@ -15,7 +15,7 @@ Areas
 * [Fashion Embeddings](#Fashion-Embeddings)
 * [Outfit Composition/Compatibility Recommendation/Prediction](#Outfit-CompositionCompatibility-RecommendationPrediction)
 * [Visual Search/Visual Recommendation/Visual Retrieval](#visual-searchvisual-recommendationvisual-retrieval)
-* [Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation](#fashion-image-object-detectionclassificationparsingsegmentationattribute-manipulation)
+* [Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation/Landmark Detection](#fashion-image-object-detectionclassificationparsingsegmentationattribute-manipulationlandmark-detection)
 * [Sizing/Virtual Trial Room](#sizingvirtual-trial-room)
 * [Retail Insights/Trends/Forecasting/Inventory Management](#retail-insightstrendsforecastinginventory-management)
 * [Image Generation/Image Manipulation in Fashion/Style Transfer](#image-generationimage-manipulation-in-fashionstyle-transfer)
@@ -129,16 +129,28 @@ ICCV Workshop, 2017, [[pdf](https://arxiv.org/pdf/1707.05929.pdf)]
 KDD, 2017, [[pdf](https://arxiv.org/pdf/1706.03154v2.pdf)]
 
 ---
-#### Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation
+#### Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation/Landmark Detection
 ---
 **Attribute Manipulation Generative Adversarial Networks for Fashion Images.** </br>
 ICCV, 2019, [[pdf](https://ieeexplore.ieee.org/document/9008395)]
+
+**Semantic Segmentation of Fashion Images Using Feature Pyramid Networks** </br>
+ICCV, 2019, [[pdf](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Martinsson_Semantic_Segmentation_of_Fashion_Images_Using_Feature_Pyramid_Networks_ICCVW_2019_paper.html)]
+
+**Spatial-Aware Non-Local Attention for Fashion Landmark Detection.** </br>
+ICME, 2019, [[pdf](https://arxiv.org/pdf/1903.04104.pdf)]
 
 **Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification** </br>
 CVPR, 2018, [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.html)]
 
 **Unconstrained Fashion Landmark Detection via Hierarchical Recurrent Transformer Networks** </br>
 ACM MM, 2017, [[pdf](https://dl.acm.org/doi/10.1145/3123266.3123276)]
+
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **DeepFashion: Powering Robust Clothes Recognition and Retrieval with Rich Annotations** </br>
+CVPR, 2016, [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)]
+
+**Fashion apparel detection: The role of deep convolutional neural network and pose-dependent priors** </br>
+WACV, 2016, [[pdf](https://arxiv.org/abs/1411.5319)]
 
 ---
 #### Sizing/Virtual Trial Room
@@ -152,7 +164,8 @@ ACM MM, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3343031.3351083)]
 **Shop your Right Size: A System for Recommending Sizes for Fashion products.** </br>
 WWW, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3308560.3316599)]
 
-
+**Decomposing fit semantics for product size recommendation in metric spaces.** </br>
+RecSys 2018, [[pdf](https://dl.acm.org/doi/10.1145/3240323.3240398)]
 
 ---
 #### Retail Insights/Trends/Forecasting/Inventory Management
@@ -169,4 +182,6 @@ ICCV, 2019, [[pdf](https://arxiv.org/abs/1908.11412)]
 **Fashion Forward: Forecasting Visual Style in Fashion.** </br>
 ICCV, 2017, [[pdf](https://arxiv.org/abs/1705.06394)]
 
+**When Fashion Meets Big Data: Discriminative Mining of Best Selling Clothing Features**
+WWW, 2017, [[pdf](https://dl.acm.org/doi/10.1145/3041021.3054141)]
 
