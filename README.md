@@ -125,7 +125,7 @@ KDD, 2017, [[pdf](https://arxiv.org/pdf/1706.03154v2.pdf)]
 ---
 #### Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation/Landmark Detection
 ---
-**Attribute Manipulation Generative Adversarial Networks for Fashion Images.** </br>
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Attribute Manipulation Generative Adversarial Networks for Fashion Images.** </br>
 ICCV, 2019, [[pdf](https://ieeexplore.ieee.org/document/9008395)]
 
 **Semantic Segmentation of Fashion Images Using Feature Pyramid Networks** </br>
@@ -134,7 +134,7 @@ ICCV, 2019, [[pdf](http://openaccess.thecvf.com/content_ICCVW_2019/html/CVFAD/Ma
 **Spatial-Aware Non-Local Attention for Fashion Landmark Detection.** </br>
 ICME, 2019, [[pdf](https://arxiv.org/pdf/1903.04104.pdf)]
 
-**Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification** </br>
+<img src="https://github.com/AlenUbuntu/awesome-vision-translation/blob/master/white-right-pointing-backhand-index_1f449.png" width="20"> **Attentive Fashion Grammar Network for Fashion Landmark Detection and Clothing Category Classification** </br>
 CVPR, 2018, [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Attentive_Fashion_Grammar_CVPR_2018_paper.html)]
 
 **Unconstrained Fashion Landmark Detection via Hierarchical Recurrent Transformer Networks** </br>
