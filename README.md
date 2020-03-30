@@ -12,8 +12,8 @@ A curated list of research papers, datasets, open-source codes and tutorials rel
 ### Papers
 
 Areas
-* [Fashion Embeddings](#fashion-embeddings)
-* [Personalisation/Recommendation/Outfit Composition/Compatibility](#personalisationrecommendationoutfit-compositioncompatibility)
+* [Fashion Embeddings](#Fashion-Embeddings)
+* [Outfit Composition/Compatibility Recommendation/Prediction](#Outfit-Composition/Compatibility-Recommendation/Prediction)
 * [Visual Search/Visual Recommendation/Visual Retrieval](#visual-searchvisual-recommendationvisual-retrieval)
 * [Fashion Image Object Detection/Classification/Parsing/Segmentation/Attribute Manipulation](#fashion-image-object-detectionclassificationparsingsegmentationattribute-manipulation)
 * [Retail Insights/Trends/Forecasting/Inventory Management](#retail-insightstrendsforecastinginventory-management)
@@ -33,16 +33,34 @@ ECCV, 2018, [[pdf](https://arxiv.org/pdf/1803.09196v1.pdf)] [[code](https://gith
 CVPR, 2016, [[pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Simo-Serra_Fashion_Style_in_CVPR_2016_paper.pdf)] [[code](https://esslab.jp/~ess/en/research/stylenet/)] </br>
 
 ---
-#### Personalisation/Recommendation/Outfit Composition/Compatibility
+#### Outfit Composition/Compatibility Recommendation/Prediction
 ---
+**Enhancing Fashion Recommendation with Visual Compatibility Relationship** </br>
+WWW, 2019, [[pdf]](https://dl.acm.org/doi/10.1145/3308558.3313739)
+
 **Fashion Is Taking Shape: Understanding Clothing Preference Based on Body Shape From Online Sources** </br>
 WACV, 2019, [[pdf](https://arxiv.org/pdf/1807.03235.pdf)] 
+
+**TransNFCM: Translation-Based Neural Fashion Compatibility Modeling** </br>
+AAAI, 2019, [[pdf](https://arxiv.org/pdf/1812.10021.pdf)]
+
+**Neural Compatibility Ranking for Text-based Fashion Matching** </br>
+SIGIR, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3331184.3331365)]
+
+**Prototype-guided Attribute-wise Interpretable Scheme for Clothing Matching** </br>
+SIGIR, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3331184.3331245)]
+
+**GP-BPR: Personalized Compatibility Modeling for Clothing Matching** </br>
+ACM MM, 2019, [[pdf](https://dl.acm.org/doi/10.1145/3343031.3350956**)]
 
 **Toward Explainable Fashion Recommendation** </br>
 Arxiv, 2019, [[pdf](https://arxiv.org/pdf/1901.04870v1.pdf)]
 
 **Creating Capsule Wardrobes from Fashion Images** </br>
 CVPR, 2018, [[pdf](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hsiao_Creating_Capsule_Wardrobes_CVPR_2018_paper.pdf)]
+
+**Learning Type-Aware Embeddings for Fashion Compatibility.** </br>
+ECCV, 2018, [[pdf](https://arxiv.org/pdf/1803.09196.pdf)]
 
 **Product Characterisation towards Personalisation: Learning Attributes from Unstructured Data to Recommend Fashion Products.** </br>
 KDD, 2018, [[pdf](https://arxiv.org/pdf/1803.07679v1.pdf)]
@@ -52,6 +70,9 @@ WACV, 2018, [[pdf](https://arxiv.org/abs/1804.09979)]
 
 **Learning Fashion Compatibility with Bidirectional LSTMs** </br>
 ACM MM, 2017, [[pdf](https://arxiv.org/pdf/1707.05691v1.pdf)]
+
+**NeuroStylist: Neural Compatibility Modeling for Clothing Matching** </br>
+ACM MM, 2017, [[pdf](https://dl.acm.org/doi/10.1145/3123266.3123314)]
 
 **Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences**</br>
 ICCV, 2015, [[pdf](https://arxiv.org/pdf/1509.07473v1.pdf)]
